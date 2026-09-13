@@ -1,0 +1,187 @@
+{
+	"title": "SFW 合集组件v1 UpDate:26.05",
+	"description": "日用所需皆在此，亲身实践始知真。",
+	"icon": "https://he2o.vercel.app/Resource/Icon/Forward/icon_new2026.png",
+	"widgets": [
+		{
+			"id": "forward.combined.media.lists",
+			"title": "影视榜单",
+			"description": "聚合豆瓣、TMDB、IMDB和Bangumi的影视动画榜单",
+			"requiredVersion": "0.0.2",
+			"version": "1.3.6",
+			"author": "阿米诺斯",
+			"url": "https://he2o.vercel.app/Resource/ForwardWidgets/𝓑𝓾𝓽𝓽𝓮𝓻𝓯𝓵𝔂/Widgets/combined.js"
+		},
+		{
+			"id": "zhuijurili",
+			"title": "追剧日历(今/明日播出、周历、各项榜单、今日推荐)",
+			"description": "解析追剧日历今/明日播出剧集/番剧/国漫/综艺、周历、各项榜单、今日推荐等",
+			"requiredVersion": "0.0.1",
+			"version": "1.0.4",
+			"author": "huangxd",
+			"url": "https://he2o.vercel.app/Resource/ForwardWidgets/huangxd-/widgets/zhuijurili.js"
+		},
+		{
+			"id": "trakt",
+			"title": "Trakt我看&Trakt个性化推荐",
+			"description": "解析Trakt想看、在看、已看、片单、追剧日历以及根据个人数据生成的个性化推荐",
+			"requiredVersion": "0.0.1",
+			"version": "1.0.15",
+			"author": "huangxd",
+			"url": "https://he2o.vercel.app/Resource/ForwardWidgets/huangxd-/widgets/trakt.js"
+		},
+		{
+			"id": "douban",
+			"title": "豆瓣我看&豆瓣个性化推荐",
+			"description": "解析豆瓣想看、在看、已看以及根据个人数据生成的个性化推荐",
+			"requiredVersion": "0.0.1",
+			"version": "1.0.20",
+			"author": "huangxd",
+			"url": "https://he2o.vercel.app/Resource/ForwardWidgets/huangxd-/widgets/douban.js"
+		},
+		{
+			"id": "yatu",
+			"title": "雅图(每日放送+点播排行榜+评分排行榜)",
+			"description": "解析雅图每日放送更新以及各类排行榜",
+			"requiredVersion": "0.0.1",
+			"version": "1.0.7",
+			"author": "huangxd",
+			"url": "https://he2o.vercel.app/Resource/ForwardWidgets/huangxd-/widgets/yatu.js"
+		},
+		{
+			"id": "baranwang.danmu.universe",
+			"title": "通用弹幕",
+			"description": "通用弹幕插件，支持腾讯、优酷、爱奇艺、哔哩哔哩、人人视频等平台",
+			"requiredVersion": "0.0.2",
+			"version": "0.10.1",
+			"author": "Baran",
+			"url": "https://unpkg.com/@forward-widget/danmu-universe"
+		},
+		{
+			"id": "forward.auto.danmu2",
+			"title": "自动链接弹幕v2",
+			"description": "自动获取播放链接并从服务器获取弹幕",
+			"requiredVersion": "0.0.2",
+			"version": "1.20.10",
+			"author": "huangxd",
+			"url": "https://he2o.vercel.app/Resource/ForwardWidgets/huangxd-/widgets/danmu_api.js"
+		},
+		{
+			"id": "hot_picks",
+			"title": "热门精选",
+			"description": "获取最新热播剧和热门影片推荐",
+			"requiredVersion": "0.0.1",
+			"version": "1.6.0",
+			"author": "两块",
+			"url": "https://he2o.vercel.app/Resource/ForwardWidgets/2kuai/Widgets/HotPicks.js"
+		},
+		{
+			"id": "bangumi_charts_tmdb_v3",
+			"title": "热门榜单",
+			"description": "获取Bangumi近期热门、每日放送数据，支持榜单筛选。",
+			"requiredVersion": "0.0.1",
+			"version": "2.0.0",
+			"author": "Autism",
+			"url": "https://he2o.vercel.app/Resource/ForwardWidgets/opix-maker/Widgets/Bangumi_v2.0.0.js"
+		},
+		{
+			"id": "yuanqi.wallpaper",
+			"title": "🖼️ ✨壁纸",
+			"description": "✨ 获取 壁纸(动态壁纸)",
+			"requiredVersion": "0.0.1",
+			"version": "2.3.0",
+			"author": "🎁",
+			"url": "https://he2o.vercel.app/Resource/ForwardWidgets/𝓑𝓾𝓽𝓽𝓮𝓻𝓯𝓵𝔂/Widgets/wallpaper.js"
+		},
+		{
+			"id": "person.movie.tmdb",
+			"title": "TMDB人物影视作品",
+			"description": "获取 TMDB 的榜单数据",
+			"requiredVersion": "0.0.1",
+			"version": "1.0.4",
+			"author": "Evan",
+			"url": "https://he2o.vercel.app/Resource/ForwardWidgets/EmrysChoo/Widgets/person_movie.js"
+		},
+		{
+			"id": "tv_live",
+			"title": "电视台",
+			"description": "获取热门电视直播频道",
+			"requiredVersion": "0.0.1",
+			"version": "1.1.5",
+			"author": "两块",
+			"url": "https://he2o.vercel.app/Resource/ForwardWidgets/2kuai/Widgets/TvLive.js"
+		},
+		{
+			"id": "vod_sream",
+			"title": "视频点播聚合",
+			"description": "获取聚合点播影片资源",
+			"requiredVersion": "0.0.1",
+			"version": "1.2.1",
+			"author": "两块",
+			"url": "https://he2o.vercel.app/Resource/ForwardWidgets/2kuai/Widgets/VodStream.js"
+		},
+		{
+			"id": "jp_vod_full",
+			"title": "金牌影院",
+			"description": "金牌影院在线资源获取",
+			"requiredVersion": "0.0.1",
+			"version": "1.0.3",
+			"author": "两块",
+			"url": "https://he2o.vercel.app/Resource/ForwardWidgets/2kuai/Widgets/jpyy.js"
+		},
+		{
+			"id": "rr_vod_full",
+			"title": "人人美剧",
+			"description": "获取人人美剧在线资源",
+			"requiredVersion": "0.0.1",
+			"version": "1.0.1",
+			"author": "两块",
+			"url": "https://he2o.vercel.app/Resource/ForwardWidgets/2kuai/Widgets/rrmj.js"
+		},
+		{
+			"id": "letterboxd",
+			"title": "Letterboxd电影爱好者平台",
+			"description": "解析Letterboxd片单内的影片",
+			"requiredVersion": "0.0.1",
+			"version": "1.0.2",
+			"author": "huangxd",
+			"url": "https://he2o.vercel.app/Resource/ForwardWidgets/huangxd-/widgets/letterboxd.js"
+		},
+		{
+			"id": "live",
+			"title": "直播(电视+网络)",
+			"description": "解析直播订阅链接",
+			"requiredVersion": "0.0.1",
+			"version": "1.0.10",
+			"author": "huangxd",
+			"url": "https://he2o.vercel.app/Resource/ForwardWidgets/huangxd-/widgets/live.js"
+		},
+		{
+			"id": "video_together",
+			"title": "Video Together(一起看)",
+			"description": "和朋友们一起看视频插件，支持同步播放、在线聊天等功能。",
+			"requiredVersion": "0.0.1",
+			"version": "1.0.1",
+			"author": "",
+			"url": "https://he2o.vercel.app/Resource/ForwardWidgets/videotogether.js"
+		},
+		{
+			"id": "wuming.VOD",
+			"title": "视频点播",
+			"description": "根据关键词,用于视频点播",
+			"requiredVersion": "0.0.1",
+			"version": "1.0.0",
+			"author": "无名",
+			"url": "https://he2o.vercel.app/Resource/ForwardWidgets/xbzl/Widgets/wuming.js"
+		},
+		{
+			"id": "ti.bemarkt.podcast",
+			"title": "播客",
+			"description": "获取 RSS 播客数据",
+			"requiredVersion": "0.0.1",
+			"version": "2.1.0",
+			"author": "Ti",
+			"url": "https://he2o.vercel.app/Resource/ForwardWidgets/bemarkt/provider/Forward/widgets/podcast.js"
+		}
+	]
+}
